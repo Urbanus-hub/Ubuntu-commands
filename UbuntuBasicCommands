@@ -1,0 +1,110 @@
+
+apt-get. Fetch Software Packages Directly From Internet
+aptitude. It can also be used to fetch software packages directly
+aspell. Spell Checker Command
+awk. Use to Find or Replace text
+basename. Get the directory and suffix from filenames
+bash GNU Bourne-Again Shell
+bc. Precision calculator language
+bg .Send items to background
+break. Exit the command or loop running
+builtin. Run shell builtin
+bzip2. Compress files to decrease their size Extraction/Compression
+cal. Used to display current calendear
+case. Put conditions in commands like if then structure
+cat .Concatenate and display data of files
+cd. Browse through directories
+cfdisk. Partition table manipulator
+chgrp. Change ownership of group
+chkconfig. Check system configuration
+chmod. Change the permissions
+chown. Change owner or group of files
+chroot. Run command on different directory
+cksum. Print CRC and byte counts
+clear. Clear all the things in terminal to start fresh
+cmp. Compare two files to get detailed difference
+comm. Used to compare two sorted files line by line in details
+command. Run a command
+continue. COntinue the loop/process
+cp. Copy files from one location to another
+cron. Schedule the commands to run at particular time
+cronta.b Schedule command to run later at time
+csplit. Break/Split files into two parts
+cut. Divide files into many parts
+date. Display current date and can also change it
+dc. Show desk calculator
+dd. Copy and convert a file
+declare. Declare your variables with ease
+df. Show up free disk space on hard drive
+diff. Difference between two files
+diff3. Difference between 3 files
+dig .Get DNS Details
+dir. Show all the directory details
+dircolors. Directory tree color change
+dirname. Full pathname to a path
+dirs. Display recent directories
+dmesg. Kernel and driver messages on screen
+du. File space usage estimation
+echo. Display message on screen
+egrep. Find all the files in which particular lines are contained
+eject. Unplug external connected device
+enable.  Enable and disable shell commands (builtin)
+env. Environment variables
+ethtool. Adjust enternet card settings
+eval. Evaluate several commands/arguements
+exec. Execute commands
+exit. Exit
+expand. Tabs to spaces
+expect. Automate arbitrary applications
+export. Set env. variables
+expr. Evaluate exp.
+gawk. Find and Replace Text
+getopts. Parse parameters which are positional
+grep. Search files for lines in given pattern
+groupadd. Add new user to group
+groupdel. Delete any group
+groupmod. Use it to modify group
+groups. Print groups you're in
+gzip. Compress files/folders
+hash. Remember full path of the name argument
+head. First part of file
+help. Display help of any command
+history. History of all commands executed so far
+hostname. Print system name
+iconv. Convert character set of the file
+id. Print user or group ID
+if. Create if command structure
+ifconfig. Show network interface
+ifdown. Stop network interface
+ifup. Start network interface
+import. Capture server screen and save
+jobs. Show all active tasks
+join .Join lines on common field
+kill .Kill a process from running
+killall. Kill all the processes
+less. Display output of screen
+let. Arithmetic shell
+ln. Symbolic link of the file
+local. Create local variables
+locate. Find files at locations
+logname. Print login name
+logout. Exit login shell
+look. Display lines
+lpc. Line printer control
+lpr. Off line
+lprint. Print file
+lprintd. Abort print
+lpri.ntq List print queue
+lprm Remove print queue (Single Item)
+ls. List files in particular directory
+make. Recompible programs
+man .Show help manual
+mkdir. Create new folders
+mkfifo. Make FIFOs
+mkisofs. CREATE iso9660/joliet/hfs filesystem
+mknod. Make character files
+mmv .Move and rename files in bulk
+more. Display output in one screen at a time
+mount. Mount the file system
+mtools. Manipulate MS-DOS files
+mtr. Traceroute/ping
